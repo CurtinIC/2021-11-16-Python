@@ -362,6 +362,14 @@ of code below the Schedule `<h2>` header below with
 
 {% include custom-schedule.html %}
 
+<hr/>
+
+<h2 id="syllabus">Syllabus</h2>
+
+{% include custom-syllabus.html %}
+
+<hr/>
+
 
 {% comment %}
 Edit/replace the text above if you want to include a schedule table.
