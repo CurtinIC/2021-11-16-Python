@@ -195,7 +195,7 @@ special instructions.
   <strong>Accessibility:</strong>
 
   We are dedicated to providing a positive and accessible learning environment for all. Please
-  notify the instructors in advance of the workshop if you require any accommodations or if there is
+  notify us in advance of the workshop if you require any accommodations or if there is
   anything we can do to make this workshop more accessible to you.
 
 {% comment %}
